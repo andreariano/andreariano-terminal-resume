@@ -189,9 +189,8 @@ var Terminal = Terminal || function (cmdLineContainer, outputContainer) {
 			output('<pre>#                                        </pre>');
 			output('<pre>#   _ __  _|___  _ __o _ __  _   _| _    </pre>');
 			output('<pre>#  (_|| |(_||(/_(_|| |(_|| |(_)o(_|(/_\\_/</pre>');
-			output('');
+			output('<pre>&nbsp;</pre>');
 			output(new Date());
-			output('');
 			output('<pre> _________________________________________</pre>');
 			output('<pre>/                                         \\</pre>');
 			output('<pre>| Enter "help" for a list of commands.    |</pre>');
